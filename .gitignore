@@ -45,3 +45,13 @@ data/raw/*
 
 data/processed/*
 !data/processed/.gitkeep
+
+
+# CatBoost
+catboost_info/
+
+# TensorBoard
+runs/
+
+# Temporary notebooks
+notebooks/note.ipynb
