@@ -38,16 +38,6 @@ LightGBM        ...
 
 ---------------------------------------------------------
 
-Screenshots
-
-Dashboard
-
-SHAP
-
-EDA
-
----------------------------------------------------------
-
 Installation
 
 pip install -r requirements.txt
@@ -55,3 +45,5 @@ pip install -r requirements.txt
 ---------------------------------------------------------
 
 Future Work
+
+TBD
